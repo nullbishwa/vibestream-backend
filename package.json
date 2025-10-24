@@ -2,7 +2,7 @@
   "name": "vibestream-backend",
   "version": "1.0.0",
   "type": "module",
-  "description": "Backend for VibeStream - YouTube-like video platform",
+  "description": "Backend for VibeStream - YouTube-like platform",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
